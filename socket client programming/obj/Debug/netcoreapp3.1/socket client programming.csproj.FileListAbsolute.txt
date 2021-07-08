@@ -1,0 +1,13 @@
+C:\Users\andik\Documents\Visual Studio 2019\C#\socket client programming\bin\Debug\netcoreapp3.1\socket client programming.exe
+C:\Users\andik\Documents\Visual Studio 2019\C#\socket client programming\bin\Debug\netcoreapp3.1\socket client programming.deps.json
+C:\Users\andik\Documents\Visual Studio 2019\C#\socket client programming\bin\Debug\netcoreapp3.1\socket client programming.runtimeconfig.json
+C:\Users\andik\Documents\Visual Studio 2019\C#\socket client programming\bin\Debug\netcoreapp3.1\socket client programming.runtimeconfig.dev.json
+C:\Users\andik\Documents\Visual Studio 2019\C#\socket client programming\bin\Debug\netcoreapp3.1\socket client programming.dll
+C:\Users\andik\Documents\Visual Studio 2019\C#\socket client programming\bin\Debug\netcoreapp3.1\socket client programming.pdb
+C:\Users\andik\Documents\Visual Studio 2019\C#\socket client programming\obj\Debug\netcoreapp3.1\socket client programming.AssemblyInfoInputs.cache
+C:\Users\andik\Documents\Visual Studio 2019\C#\socket client programming\obj\Debug\netcoreapp3.1\socket client programming.AssemblyInfo.cs
+C:\Users\andik\Documents\Visual Studio 2019\C#\socket client programming\obj\Debug\netcoreapp3.1\socket client programming.csproj.CoreCompileInputs.cache
+C:\Users\andik\Documents\Visual Studio 2019\C#\socket client programming\obj\Debug\netcoreapp3.1\socket client programming.dll
+C:\Users\andik\Documents\Visual Studio 2019\C#\socket client programming\obj\Debug\netcoreapp3.1\socket client programming.pdb
+C:\Users\andik\Documents\Visual Studio 2019\C#\socket client programming\obj\Debug\netcoreapp3.1\socket client programming.genruntimeconfig.cache
+C:\Users\andik\Documents\Visual Studio 2019\C#\socket client programming\obj\Debug\netcoreapp3.1\socket client programming.csproj.AssemblyReference.cache
