@@ -11,3 +11,16 @@ C:\Users\andik\Documents\Visual Studio 2019\C#\socket server programming\obj\Deb
 C:\Users\andik\Documents\Visual Studio 2019\C#\socket server programming\obj\Debug\netcoreapp3.1\socket server programming.pdb
 C:\Users\andik\Documents\Visual Studio 2019\C#\socket server programming\obj\Debug\netcoreapp3.1\socket server programming.genruntimeconfig.cache
 C:\Users\andik\Documents\Visual Studio 2019\C#\socket server programming\obj\Debug\netcoreapp3.1\socket server programming.csproj.AssemblyReference.cache
+D:\kerjaan dika\GitHub\TCPServerClient\socket server programming\bin\Debug\netcoreapp3.1\socket server programming.exe
+D:\kerjaan dika\GitHub\TCPServerClient\socket server programming\bin\Debug\netcoreapp3.1\socket server programming.deps.json
+D:\kerjaan dika\GitHub\TCPServerClient\socket server programming\bin\Debug\netcoreapp3.1\socket server programming.runtimeconfig.json
+D:\kerjaan dika\GitHub\TCPServerClient\socket server programming\bin\Debug\netcoreapp3.1\socket server programming.runtimeconfig.dev.json
+D:\kerjaan dika\GitHub\TCPServerClient\socket server programming\bin\Debug\netcoreapp3.1\socket server programming.dll
+D:\kerjaan dika\GitHub\TCPServerClient\socket server programming\bin\Debug\netcoreapp3.1\socket server programming.pdb
+D:\kerjaan dika\GitHub\TCPServerClient\socket server programming\obj\Debug\netcoreapp3.1\socket server programming.csproj.AssemblyReference.cache
+D:\kerjaan dika\GitHub\TCPServerClient\socket server programming\obj\Debug\netcoreapp3.1\socket server programming.AssemblyInfoInputs.cache
+D:\kerjaan dika\GitHub\TCPServerClient\socket server programming\obj\Debug\netcoreapp3.1\socket server programming.AssemblyInfo.cs
+D:\kerjaan dika\GitHub\TCPServerClient\socket server programming\obj\Debug\netcoreapp3.1\socket server programming.csproj.CoreCompileInputs.cache
+D:\kerjaan dika\GitHub\TCPServerClient\socket server programming\obj\Debug\netcoreapp3.1\socket server programming.dll
+D:\kerjaan dika\GitHub\TCPServerClient\socket server programming\obj\Debug\netcoreapp3.1\socket server programming.pdb
+D:\kerjaan dika\GitHub\TCPServerClient\socket server programming\obj\Debug\netcoreapp3.1\socket server programming.genruntimeconfig.cache
