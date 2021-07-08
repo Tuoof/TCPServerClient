@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\kerjaan dika\\GitHub\\TCPServerClient\\socket client programming\\socket client programming.csproj",
+      "projectUniqueName": "C:\\Users\\andik\\Documents\\GitHub\\TCPServerClient\\socket client programming\\socket client programming.csproj",
       "projectName": "socket client programming",
-      "projectPath": "D:\\kerjaan dika\\GitHub\\TCPServerClient\\socket client programming\\socket client programming.csproj",
+      "projectPath": "C:\\Users\\andik\\Documents\\GitHub\\TCPServerClient\\socket client programming\\socket client programming.csproj",
       "packagesPath": "C:\\Users\\andik\\.nuget\\packages\\",
-      "outputPath": "D:\\kerjaan dika\\GitHub\\TCPServerClient\\socket client programming\\obj\\",
+      "outputPath": "C:\\Users\\andik\\Documents\\GitHub\\TCPServerClient\\socket client programming\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

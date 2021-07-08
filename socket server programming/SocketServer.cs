@@ -117,7 +117,7 @@ namespace socket_server_programming
 
         public void BroadCast(string msg, string nam, TcpClient currentClient, int n)
         {
-            foreach (TcpClient client in SocketServer.clientsList)
+            foreach (TcpClient client in clientsList)
             {
                 //broadcast to all client except sender
                 StreamWriter writer = new StreamWriter(client.GetStream());
