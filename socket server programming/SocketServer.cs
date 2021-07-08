@@ -137,8 +137,17 @@ namespace socket_server_programming
 
         public void writeMessage(string chat)
         {
-            messages.Add(chat);
-            File.WriteAllLines("C:/Users/andik/Documents/Tugas/Jaringan/chat.txt", messages);
+            try
+            {
+                messages.Add(chat);
+                File.WriteAllLines("chat.txt", messages);
+            }
+            catch(Exception e)
+            {
+                Console.WriteLine(e.ToString());
+                Console.WriteLine(" ");
+            }
+            
         }
     }
 }
